@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TwitterAppOnlyAuthentication</string>
+    <string name="action_settings">Settings</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Enter your search String</string>
+    <string name="error">Error while searching tweets</string>
+    <string name="searching">searching tweets</string>
+
+</resources>
